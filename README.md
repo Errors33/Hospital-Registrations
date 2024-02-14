@@ -1,1 +1,1 @@
-# Hospital-Registrations
+# Hospital-Registration
